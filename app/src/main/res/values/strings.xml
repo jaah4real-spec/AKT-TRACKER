@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AKT TRACKER</string>
+    <string name="title_scan">Incident Console</string>
+    <string name="subtitle_scan">Authorized scam monitoring and route review</string>
+    <string name="status_ok">Network route stable</string>
+    <string name="status_alert">Suspicious route detected</string>
+    <string name="button_analyze">Analyze Route</string>
+    <string name="button_report">Generate Report</string>
+    <string name="hint_case_id">Case ID</string>
+    <string name="label_summary">Summary</string>
+</resources>
